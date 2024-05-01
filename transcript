@@ -1,0 +1,225 @@
+# Load canceled
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.MultiSeq_tb
+# vsim -gui work.MultiSeq_tb 
+# Start time: 11:54:48 on Aug 24,2023
+# Loading work.MultiSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/MultiSeq_tb/*
+run
+run
+run
+run
+run
+# ** Note: $finish    : C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v(99)
+#    Time: 500 ps  Iteration: 0  Instance: /MultiSeq_tb
+# 1
+# Break in Module MultiSeq_tb at C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v line 99
+quit -sim
+# End time: 11:55:53 on Aug 24,2023, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 2
+# Compile of MultiSeq_tb.v was successful.
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.MultiSeq_tb
+# vsim -gui work.MultiSeq_tb 
+# Start time: 11:56:29 on Aug 24,2023
+# Loading work.MultiSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/MultiSeq_tb/*
+run
+run
+run
+run
+run
+# ** Note: $finish    : C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v(99)
+#    Time: 500 ps  Iteration: 0  Instance: /MultiSeq_tb
+# 1
+# Break in Module MultiSeq_tb at C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v line 99
+quit -sim
+# End time: 11:57:32 on Aug 24,2023, Elapsed time: 0:01:03
+# Errors: 0, Warnings: 3
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.MultiSeq_tb
+# vsim -gui work.MultiSeq_tb 
+# Start time: 11:57:45 on Aug 24,2023
+# Loading work.MultiSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/MultiSeq_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# ** Note: $finish    : C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v(99)
+#    Time: 1100 ps  Iteration: 0  Instance: /MultiSeq_tb
+# 1
+# Break in Module MultiSeq_tb at C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v line 99
+quit -sim
+# End time: 11:59:23 on Aug 24,2023, Elapsed time: 0:01:38
+# Errors: 0, Warnings: 2
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.MultiSeq_tb
+# vsim -gui work.MultiSeq_tb 
+# Start time: 12:01:35 on Aug 24,2023
+# Loading work.MultiSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/MultiSeq_tb/*
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 12:02:16 on Aug 24,2023, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 2
+vsim -gui work.Multi_Divid_Comb_tb
+# vsim -gui work.Multi_Divid_Comb_tb 
+# Start time: 12:04:14 on Aug 24,2023
+# Loading work.Multi_Divid_Comb_tb
+# Loading work.Multi_Divid_Comb
+add wave -position insertpoint sim:/Multi_Divid_Comb_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Total static test cases: 12 	, Passes test case: 11 	
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# A time value could not be extracted from the current line
+quit -sim
+# End time: 12:05:29 on Aug 24,2023, Elapsed time: 0:01:15
+# Errors: 0, Warnings: 1
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.DividorSeq_tb
+# vsim -gui work.DividorSeq_tb 
+# Start time: 12:05:45 on Aug 24,2023
+# Loading work.DividorSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/DividorSeq_tb/*
+run
+run
+run
+run
+run
+run
+run
+# Total static test cases:  6 	, Passes test case:  0 	
+run
+run
+run
+quit -sim
+# End time: 12:06:18 on Aug 24,2023, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 2
+# Compile of Multi_Divid_Comb.v was successful.
+# Compile of Multi_Divid_Comb_tb.v was successful.
+# Compile of DividorSeq.v was successful.
+# Compile of DividorSeq_tb.v was successful.
+# Compile of MultiSeq_tb.v was successful.
+# Compile of MultiSeq.v was successful.
+# 6 compiles, 0 failed with no errors.
+vsim -gui work.DividorSeq_tb
+# vsim -gui work.DividorSeq_tb 
+# Start time: 12:06:34 on Aug 24,2023
+# Loading work.DividorSeq_tb
+# Loading work.DividorSeq
+add wave -position insertpoint sim:/DividorSeq_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 12:07:20 on Aug 24,2023, Elapsed time: 0:00:46
+# Errors: 0, Warnings: 2
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.MultiSeq_tb
+# vsim -gui work.MultiSeq_tb 
+# Start time: 12:25:12 on Aug 24,2023
+# Loading work.MultiSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/MultiSeq_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+# Total static test cases:  1 	, Passes test case:  0 	
+run
+run
+run
+# ** Note: $finish    : C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v(92)
+#    Time: 1100 ps  Iteration: 0  Instance: /MultiSeq_tb
+# 1
+# Break in Module MultiSeq_tb at C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v line 92
+quit -sim
+# End time: 12:25:48 on Aug 24,2023, Elapsed time: 0:00:36
+# Errors: 0, Warnings: 2
+# Compile of MultiSeq_tb.v was successful.
+vsim -gui work.MultiSeq_tb
+# vsim -gui work.MultiSeq_tb 
+# Start time: 12:26:03 on Aug 24,2023
+# Loading work.MultiSeq_tb
+# Loading work.seqMult
+add wave -position insertpoint sim:/MultiSeq_tb/*
+run
+run
+run
+run
+run
+run
+run
+run
+# Total static test cases:  1 	, Passes test case:  0 	
+run
+run
+run
+# ** Note: $finish    : C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v(90)
+#    Time: 1100 ps  Iteration: 0  Instance: /MultiSeq_tb
+# 1
+# Break in Module MultiSeq_tb at C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v line 90
+quit -sim
+# End time: 12:26:38 on Aug 24,2023, Elapsed time: 0:00:35
+# Errors: 0, Warnings: 2

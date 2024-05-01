@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Mine/college/EDA Projects/Lab
+vDividorSeq
+Z0 !s110 1692867984
+!i10b 1
+!s100 HSiL1afmIR10Y7Pn]HDlI3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IWBAPk1_djj`Cnn??2`XeC3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Mine/college/EDA Projects/Final Project
+w1692830012
+8C:/Mine/college/EDA Projects/Final Project/DividorSeq.v
+FC:/Mine/college/EDA Projects/Final Project/DividorSeq.v
+!i122 29
+L0 1 167
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1692867984.000000
+!s107 C:/Mine/college/EDA Projects/Final Project/DividorSeq.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Mine/college/EDA Projects/Final Project/DividorSeq.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@dividor@seq
+vDividorSeq_tb
+Z8 !s110 1692867985
+!i10b 1
+!s100 =Yf6VTla6@nn=POUE=n[42
+R1
+IWgSX8AiG2cXd_K6F<z`Si0
+R2
+R3
+w1692839946
+8C:/Mine/college/EDA Projects/Final Project/DividorSeq_tb.v
+FC:/Mine/college/EDA Projects/Final Project/DividorSeq_tb.v
+!i122 30
+L0 1 108
+R4
+r1
+!s85 0
+31
+Z9 !s108 1692867985.000000
+!s107 C:/Mine/college/EDA Projects/Final Project/DividorSeq_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Mine/college/EDA Projects/Final Project/DividorSeq_tb.v|
+!i113 1
+R6
+R7
+n@dividor@seq_tb
+vMulti_Divid_Comb
+R0
+!i10b 1
+!s100 gE4QEj`da_>oG3W3h1oN[0
+R1
+I3[BcPh;V7d:S1`<<K5SH70
+R2
+R3
+w1692830072
+8C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb.v
+FC:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb.v
+!i122 27
+L0 1 162
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb.v|
+!i113 1
+R6
+R7
+n@multi_@divid_@comb
+vMulti_Divid_Comb_tb
+R0
+!i10b 1
+!s100 Xia`U@mecz?fCXmYmGC[S1
+R1
+IWLTaHY?;j?z9UhlZ=5C]E1
+R2
+R3
+w1692839940
+8C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb_tb.v
+FC:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb_tb.v
+!i122 28
+L0 1 140
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb_tb.v|
+!i113 1
+R6
+R7
+n@multi_@divid_@comb_tb
+vMultiSeq_tb
+!s110 1692869153
+!i10b 1
+!s100 9>CQR:Mn5iPT=l:=gkMCK2
+R1
+ISb]ijJzQmLZlWF=<el8CC2
+R2
+R3
+w1692869138
+8C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v
+FC:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v
+!i122 34
+L0 1 93
+R4
+r1
+!s85 0
+31
+!s108 1692869153.000000
+!s107 C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v|
+!i113 1
+R6
+R7
+n@multi@seq_tb
+vseqMult
+R8
+!i10b 1
+!s100 K?nf4mH[SYIA<>5Ql8I:C2
+R1
+IXY@fiKfcZQ7jPYWZIoea^0
+R2
+R3
+w1692852779
+8C:/Mine/college/EDA Projects/Final Project/MultiSeq.v
+FC:/Mine/college/EDA Projects/Final Project/MultiSeq.v
+!i122 32
+L0 1 133
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Mine/college/EDA Projects/Final Project/MultiSeq.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Mine/college/EDA Projects/Final Project/MultiSeq.v|
+!i113 1
+R6
+R7
+nseq@mult

@@ -1,0 +1,43 @@
+{C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb_tb.v} {1 {vlog -work work -stats=none {C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multi_Divid_Comb_tb
+
+Top level modules:
+	Multi_Divid_Comb_tb
+
+} {} {}} {C:/Mine/college/EDA Projects/Final Project/DividorSeq_tb.v} {1 {vlog -work work -stats=none {C:/Mine/college/EDA Projects/Final Project/DividorSeq_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DividorSeq_tb
+
+Top level modules:
+	DividorSeq_tb
+
+} {} {}} {C:/Mine/college/EDA Projects/Final Project/MultiSeq.v} {1 {vlog -work work -stats=none {C:/Mine/college/EDA Projects/Final Project/MultiSeq.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module seqMult
+
+Top level modules:
+	seqMult
+
+} {} {}} {C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v} {1 {vlog -work work -stats=none {C:/Mine/college/EDA Projects/Final Project/MultiSeq_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MultiSeq_tb
+
+Top level modules:
+	MultiSeq_tb
+
+} {} {}} {C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb.v} {1 {vlog -work work -stats=none {C:/Mine/college/EDA Projects/Final Project/Multi_Divid_Comb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Multi_Divid_Comb
+
+Top level modules:
+	Multi_Divid_Comb
+
+} {} {}} {C:/Mine/college/EDA Projects/Final Project/DividorSeq.v} {1 {vlog -work work -stats=none {C:/Mine/college/EDA Projects/Final Project/DividorSeq.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DividorSeq
+
+Top level modules:
+	DividorSeq
+
+} {} {}}
